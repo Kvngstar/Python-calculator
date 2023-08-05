@@ -3,10 +3,7 @@
 <p>
   In this project, I extended the functionality of my Python calculator by introducing a novel feature called "Store." This enhancement allowed users to save and retrieve previous calculation results, enhancing the calculator's utility and versatility. By combining my passion for Python programming with creative problem-solving, I aimed to create a powerful and user-friendly tool for everyday arithmetic operations.
 </p>
-<div style="display: flex, align-items:center,justify-content:around,flex-wrap:wrap ,margin:20px 0px">
-<img src="https://drive.google.com/file/d/1aQacsROh827PRLPg2r0L3w5J9matJAdP/view?usp=sharing" height="500px" width="auto/>
-<img src="https://drive.google.com/file/d/19bP6pZeoG7ZQZVpg3akvaRxreF-ygwB0/view?usp=sharing" height="500px" width="auto/>
-</div>
+
 <div>
 <header>Project Description:</header>
 
